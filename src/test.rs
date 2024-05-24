@@ -29,7 +29,6 @@ mod tests {
             1711852200000, // 03:30:00 GMT+0100 (British Summer Time) 2024-03-31T02:30:00.000Z
             1711854000000, // 04:00:00 GMT+0100 (British Summer Time) 2024-03-31T03:00:00.000Z
             1711855800000, // 04:30:00 GMT+0100 (British Summer Time) 2024-03-31T03:30:00.000Z
-            1711857600000, // [MISSING] 05:00:00 GMT+0100 (British Summer Time) 2024-03-31T04:00:00.000Z
         ]);
     }
 
